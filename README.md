@@ -1,9 +1,8 @@
 # wsl-install-document
 Claude Code Router: Master Setup Guide (WSL + Gemini)
 Watch the Tutorial
-https://youtu.be/Kerha8oWWug?si=8i-fhs9wsLGy-sAK
 📺 Watch the Video: Click here to watch the full step-by-step tutorial
-
+https://youtu.be/Kerha8oWWug?si=8i-fhs9wsLGy-sAK
 This repository is the official guide for my YouTube tutorial. It helps you set up Claude Code on Windows using WSL2 and powers it with Google Gemini using the Claude Code Router.
 
 🛠 Step 0: Install Windows Subsystem for Linux (WSL)
