@@ -25,7 +25,7 @@ This repository is the official guide for my YouTube tutorial. It helps you set 
 ```powershell
 wsl --install
 ```
-
+###verify wsl ```wsl -1 -v ```
 ### 3. Downloading & Launching
 
 * Windows will download and install WSL
